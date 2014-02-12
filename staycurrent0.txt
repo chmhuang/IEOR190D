@@ -1,0 +1,26 @@
+IEOR 190D Stay Current 0
+Top 5 Wearable Tech(Early 2014)
+January 25, 2014
+Marques Brownlee(MKBHD)
+http://www.youtube.com/watch?v=dYzlWWa8dCU&feature=c4-overview&list=UUBJycsmduvYEL83R_U4JriQ
+Qualcomm Toq Smartwatch
+- Mirasol display
+- good hardware, poor design, poor UI
+Samsung Galaxy Gear
+- accessory to Samsung device
+- not full feature
+Google Glass Explorer Edition
+- expensive, weird formfactor
+Fitbit Force
+- bunch of sensors
+- activity tracker, sleep tracker, pedometer, does not deliever information 
+- big data, tracks what you do 
+Pebble 
+- Pebble Steel 
+- 3rd party app store 
+- not full feature - no camera
+- API to connect with smartphone
+Honorable Mentions - Jaybird Reign, Razer Nabu
+Optinvent ORA - google glass competitor
+Neptune Pine - Small Android Tablet
+Oculus Rift 
