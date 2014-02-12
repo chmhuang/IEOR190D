@@ -23,4 +23,6 @@ Pebble
 Honorable Mentions - Jaybird Reign, Razer Nabu
 Optinvent ORA - google glass competitor
 Neptune Pine - Small Android Tablet
-Oculus Rift 
+Oculus Rift
+
+In Marques Brownlee's video "Top 5 Wearable Tech(Early 2014)", he reviews the top wearable tech that is out or about to debut in 2014. Most of these products were under the spotlight in the recent CES 2014 in Las Vegas. The top 5 wearable products to watch are Qualcomm Toq Smartwatch, Samsung Galaxy Gear, Google Glass Explorer Edition, Fitbit Force, and Pebble Steel. These products each have its USP. Qualcomm's Toq watch promises a new display technology called Mirasol Display. It solves the problem of outdoor viewing. The Samsung Galaxy Gear is known as the most polished smartwatch. However, it cripples itself by limiting itself to only work with Samsung devices. 
